@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "rxideas-1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "53d2e1bd-26bc-4d13-84cd-ebb1ba4987b4",
+			"database_name": "rxideasd1-template-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
